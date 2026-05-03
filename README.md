@@ -2,8 +2,7 @@
 
 A fully interactive, feature-rich web-based music player built with **HTML**, **CSS**, and **JavaScript**. This modern music player provides a complete listening experience with playlist management, playback controls, audio visualizer, shuffle/repeat modes, speed control, and a beautiful responsive design.
 
-![Project Demo](https://img.shields.io/badge/demo-live-green) (https://music-player-one-gules.vercel.app/)
-
+[![Project Demo](https://img.shields.io/badge/demo-live-green)](https://music-player-one-gules.vercel.app/)
 ### Core Music Player
 - **Play / Pause** — Toggle music playback
 - **Next / Previous** — Navigate through the playlist
